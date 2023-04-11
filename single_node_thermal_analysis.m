@@ -5,7 +5,7 @@ clc;
 r_sat = 0.07214;
 A_sat = 4 * pi * r_sat^2;
 A_sat_sectional = pi * r_sat^2;
-m = 1.3;
+m = 0.4;
 c_p = 897;
 alfa = 0.92;
 epsilon = 0.85;
